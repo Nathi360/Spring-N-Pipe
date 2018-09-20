@@ -1,0 +1,42 @@
+GET http://localhost:8080/mqtt
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/mqtt
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/mqtt
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-20T013602.400.json
+
+###
+
+GET http://localhost:8080/mqtt
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-20T013330.400.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-20T013219.404.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
